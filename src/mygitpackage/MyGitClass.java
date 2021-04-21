@@ -9,6 +9,7 @@ public class MyGitClass {
 		System.out.println("My second commit");
 		System.out.println("My third commit");
 		System.out.println("My fourth commit");
+		System.out.println("My fifth commit");
 		
 		///Users/Salak/eclipse-workspace/mygitproject
 		//C:\Users\Salak\eclipse-workspace\mygitproject ===>dosya yontemiyle path
