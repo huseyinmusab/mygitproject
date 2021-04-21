@@ -14,6 +14,7 @@ public class MyGitClass {
 		System.out.println("My fifth commit");
 
 		System.out.println("uzak sunucudaki kodlsrim");//GitHub.com daki yeni kodum
+		System.out.println("uzak sunucudaki kodlsrim2");
 
 
 		
