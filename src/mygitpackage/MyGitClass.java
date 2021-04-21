@@ -16,7 +16,7 @@ public class MyGitClass {
 		System.out.println("uzak sunucudaki kodlsrim");//GitHub.com daki yeni kodum
 		System.out.println("uzak sunucudaki kodlsrim2");
 		System.out.println("uzak sunucudaki kodlsrim3");
-		System.out.println("19.satir uzak sunucu");
+		System.out.println("19.satir UZAK SUNUCU");
 
 
 		
