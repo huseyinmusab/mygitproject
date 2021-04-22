@@ -17,11 +17,7 @@ public class MyGitClass {
 		System.out.println("uzak sunucudaki kodlsrim2");
 		System.out.println("uzak sunucudaki kodlsrim3");
 
-        System.out.println("19. satir bilgisayarim");
-
-		System.out.println("19.satir UZAK SUNUCU");
-
-		System.out.println("yeni bir kod ertesi kod ekleme");
+       
 
 
        
