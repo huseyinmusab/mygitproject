@@ -22,7 +22,7 @@ public class MyGitClass {
 		System.out.println("19.satir UZAK SUNUCU");
 
 		System.out.println("yeni bir kod ertesi kod ekleme");
-
+                System.out.println("25.satir UZAK SUNUCU");//Github.com daki yeni kodum
 
 		
 		///Users/Salak/eclipse-workspace/mygitproject
