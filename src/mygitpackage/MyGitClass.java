@@ -23,7 +23,7 @@ public class MyGitClass {
 
 		System.out.println("yeni bir kod ertesi kod ekleme");
 
-
+        System.out.println("26.satir bilgisayarim ");//git hubdan 1 fazlaki
 		
 		///Users/Salak/eclipse-workspace/mygitproject
 		//C:\Users\Salak\eclipse-workspace\mygitproject ===>dosya yontemiyle path
