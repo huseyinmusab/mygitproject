@@ -21,6 +21,7 @@ public class MyGitClass {
 
 		System.out.println("19.satir UZAK SUNUCU");
 
+		System.out.println("yeni bir kod ertesi kod ekleme");
 
 
 		
