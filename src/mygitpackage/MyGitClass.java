@@ -21,6 +21,7 @@ public class MyGitClass {
 
 		System.out.println("19.satir uzak sunucu");//git hub.comdaki
 		System.out.println("Huseyin branchimde yazdigim kodlar satir 23");
+		System.out.println("Huseyin branchime yazdigim ikinci sira kodlar satir 24");
 
 
        
